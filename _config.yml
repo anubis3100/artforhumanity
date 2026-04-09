@@ -1,0 +1,7 @@
+title: Art for Humanity
+description: Digital Art Fundraising for Humanitarian Impact
+url: ""
+baseurl: ""
+
+# Disable Jekyll processing — pure HTML site
+plugins: []
